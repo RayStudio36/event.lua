@@ -4,7 +4,7 @@ A tiny event module for Lua.
 
 ## Installation
 
-The [event.lua]() file should be dropped into an existing project and required by it.
+The [event.lua](https://github.com/RayStudio36/event.lua/blob/master/event.lua) file should be dropped into an existing project and required by it.
 
 ```lua
 Event = require 'event'
