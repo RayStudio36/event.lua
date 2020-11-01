@@ -3,6 +3,7 @@
 -- 2019-11-22
 --
 
+---@class Event
 local Event = {}
 Event.__index = Event
 
